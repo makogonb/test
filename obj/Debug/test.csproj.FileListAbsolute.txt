@@ -1,0 +1,13 @@
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.pdb
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.Form1.resources
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.pdb
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.manifest
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.application
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe.manifest
+C:\Users\bounc\OneDrive\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.application
